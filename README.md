@@ -10,10 +10,10 @@ Projekti toteutetaan kahdessa vaiheessa:
 
 ## 👥 Tiimi (Ryhmä 404)
 
-* **Rahel Karim**
+* **Rahel**
 * **Tony**
 * **Winnie**
-* **Bach Hoang**
+* **Bach**
 
 Tiimimme työskentelee ketterästi 2 viikon sprinteissä Scrum-mallilla. Roolit (Product Owner ja Scrum Master) kiertävät jäsenten kesken sprinttien aikana.
 
