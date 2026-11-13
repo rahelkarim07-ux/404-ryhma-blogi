@@ -42,4 +42,4 @@ Tiimimme työskentelee ketterästi 2 viikon sprinteissä Scrum-mallilla. Roolit 
 ├── js/
 │   └── main.js
 └── assets/
-    └── (kuvat ja mediatiedostot)t
+    └── (kuvat ja mediatiedostot)
