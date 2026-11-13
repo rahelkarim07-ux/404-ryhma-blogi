@@ -30,12 +30,16 @@ Tiimimme työskentelee ketterästi 2 viikon sprinteissä Scrum-mallilla. Roolit 
 ## 📁 Projektin rakenne
 
 ```text
-├── index.html        # Etusivu: Tekoälyn ja kyberturvan palvelukokonaisuus
-├── tietopankki.html  # Tietopankki: Oppaat ja turvallisuustarkistuslistat
-├── ota-yhteytta.html # Yhteydenotto: Tukipyyntölomake
+404-error/
+├── index.html
+├── tietopankki.html
+├── meista.html
+├── ota-yhteytta.html
+├── README.md
+├── .gitignore
 ├── css/
-│   └── style.css     # Sivuston ulkoasu ja responsiiviset tyylit
+│   └── style.css
 ├── js/
-│   └── main.js       # Sivuston skriptit ja interaktiivisuus
-├── assets/           # Kuvat, ikonit ja muu mediamateriaali
-└── docs/             # Suunnitteludokumentaatio, sivukartat ja rautalankamallit
+│   └── main.js
+└── assets/
+    └── (kuvat ja mediatiedostot)t
