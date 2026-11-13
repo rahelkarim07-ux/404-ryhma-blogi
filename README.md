@@ -15,7 +15,7 @@ Projekti toteutetaan kahdessa vaiheessa:
 * **Winnie**
 * **Bach**
 
-Tiimimme työskentelee ketterästi 2 viikon sprinteissä Scrum-mallilla. Roolit (Product Owner ja Scrum Master) kiertävät jäsenten kesken sprinttien aikana.
+Tiimimme työskentelee ketterästi 2 viikon sprinteissä Scrum-mallilla. Roolit (Product Owner // Scrum Master) kiertävät jäsenten kesken sprinttien aikana.
 
 ---
 
